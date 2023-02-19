@@ -69,7 +69,7 @@ const songs = [
     {
         name:"Pill",
         title:"Pill",
-        artist:"Heuse& Zeus x Crona",
+        artist:"Heuse& Zeus X Crona",
     },
     {
         name:"Shining",
@@ -95,6 +95,21 @@ const songs = [
         name:"WhyWeLoose",
         title:"Why We Loose",
         artist:"Cartoon",
+    },
+    {
+        name:"Koven",
+        title:"Never Have I Felt This",
+        artist:"Koven",
+    },
+    {
+        name:"Invisible",
+        title:"Invisible",
+        artist:"Julius Dreisig & Zeus X Crona",
+    },
+    {
+        name:"Lost",
+        title:"Lost",
+        artist:"Lost Sky",
     },
 
 ];
